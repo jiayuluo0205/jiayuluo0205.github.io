@@ -11,7 +11,7 @@ Hello and welcome to my page! I'm a first year master student from [School of Co
 
 My research interest includes Robotics and machine learning.
 
-## Recent Publications
+## Publications
 
 ### [TelePreview: A User-Friendly Teleoperation System with Virtual Arm Assistance for Enhanced Effectiveness](https://arxiv.org/abs/XXXXX)
 *Jingxiang Guo, Jiayu Luo, Zhenyu Wei, Yiwen Hou, Zhixuan Xu, Xiaoyi Lin, Chongkai Gao, Lin Shao*  
