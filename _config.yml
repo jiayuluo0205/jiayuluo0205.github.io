@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Luo, Jiayu "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "Photo.png"
   name             : "Jiayu Luo"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : # 
   location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
