@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jiayu Luo 罗嘉宇"
 title_separator          : # "-"
 name                     : # &name "Your Name"
-description              : &description "personal description"
+description              : # &description "personal description"
 url                      : "https://jiayuluo0205.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # 
   location         : "Singapore"
-  employer         : "National University of Singapore" ("https://www.nus.edu.sg/")
+  employer         : "National University of Singapore"
   uri              : #
   email            : "jiayu@comp.nus.edu.sg" 
 
