@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/f74ffd3b-57b4-4f47-8e70-ff8ea74e361e)---
+---
 permalink: /
 title: "Jiayu Luo"
 author_profile: true
