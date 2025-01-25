@@ -17,6 +17,3 @@ My research interest includes Robotics and machine learning.
 *Jingxiang Guo, Jiayu Luo, Zhenyu Wei, Yiwen Hou, Zhixuan Xu, Xiaoyi Lin, Chongkai Gao, Lin Shao*  
 *Arxiv*  
 [paper](https://link_to_paper) | [project](https://link_to_project) | [video](https://link_to_video)
-
----
-### 
