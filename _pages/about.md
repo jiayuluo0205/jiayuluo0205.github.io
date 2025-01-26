@@ -16,10 +16,22 @@ My research interest includes Robotics and machine learning.
 ## Publications
 
 
-### <img src="../images/telepreview.png" alt="telepreview" width="150"> [TelePreview: A User-Friendly Teleoperation System with Virtual Arm Assistance for Enhanced Effectiveness](https://telepreview.github.io/)
-*Jingxiang Guo\*, __Jiayu Luo__\*, Zhenyu Wei\*, Yiwen Hou, Zhixuan Xu, Xiaoyi Lin, Chongkai Gao, Lin Shao*  
-*In Submission to RA-L*  
-[paper](https://telepreview.github.io/static/data/paper.pdf) | [project](https://telepreview.github.io/) | [video](https://www.youtube.com/watch?v=k6KpkKWzuqs&t=1s)
+<div style="display: flex; align-items: center;">
+  <img src="../images/telepreview.png" alt="telepreview" width="150" style="margin-right: 20px;">
+  <div>
+    <a href="https://telepreview.github.io/" style="font-weight: bold; font-size: 1.2em; text-decoration: none;">
+      TelePreview: A User-Friendly Teleoperation System with Virtual Arm Assistance for Enhanced Effectiveness
+    </a>
+    <br>
+    <p style="margin: 5px 0;">
+      <i>Jingxiang Guo</i>, <b>Jiayu Luo</b>, Zhenyu Wei, Yiwen Hou, Zhixuan Xu, Xiaoyi Lin, Chongkai Gao, Lin Shao<br>
+      <i>In Submission to RA-L</i>
+    </p>
+    <a href="https://telepreview.github.io/static/data/paper.pdf">paper</a> | 
+    <a href="https://telepreview.github.io/">project</a> | 
+    <a href="https://www.youtube.com/watch?v=k6KpkKWzuqs&t=1s">video</a>
+  </div>
+</div>
 
 
 ### <img src="../images/dro.png" alt="dro" width="150"> [D(R,O) Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping](https://nus-lins-lab.github.io/drograspweb/)
