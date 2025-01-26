@@ -47,6 +47,6 @@ My research interest includes Robotics and machine learning.
       <i>Best Robotics Paper Award, CoRL 2024 @ MAPoDeL</i>
     </p>
     <a href="https://arxiv.org/abs/2410.01702">paper</a> | 
-    <a href="https://nus-lins-lab.github.io/drograspweb/">project</a> | 
+    <a href="https://nus-lins-lab.github.io/drograspweb/">project</a>
   </div>
 </div>
