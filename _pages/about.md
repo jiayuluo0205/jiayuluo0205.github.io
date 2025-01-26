@@ -17,7 +17,7 @@ My research interest includes Robotics and machine learning.
 
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/telepreview.png" alt="telepreview" width="150" style="margin-right: 20px;">
+  <img src="../images/telepreview.png" alt="telepreview" width="200" style="margin-right: 20px;">
   <div>
     <a href="https://telepreview.github.io/" style="font-weight: bold; font-size: 1.2em; text-decoration: none;">
       TelePreview: A User-Friendly Teleoperation System with Virtual Arm Assistance for Enhanced Effectiveness
@@ -34,7 +34,7 @@ My research interest includes Robotics and machine learning.
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/dro.png" alt="dro" width="150" style="margin-right: 20px;">
+  <img src="../images/dro.png" alt="dro" width="200" style="margin-right: 20px;">
   <div>
     <a href="https://nus-lins-lab.github.io/drograspweb/" style="font-weight: bold; font-size: 1.2em; text-decoration: none;">
       D(R,O) Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping
