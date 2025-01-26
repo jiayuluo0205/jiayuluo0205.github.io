@@ -27,7 +27,7 @@ author:
   bio              : # 
   location         : "Singapore"
   employer         : "National University of Singapore"
-  uri              : [CV](../assets/CV.pdf)
+  uri              : # [CV](../assets/CV.pdf)
   email            : "jiayu@comp.nus.edu.sg" 
 
   # Academic websites
