@@ -11,7 +11,7 @@ Hello and welcome to my page! I'm a first year master student from [School of Co
 
 My research interest includes Robotics and machine learning.
 
-You can find my CV [here](../assets/CV.pdf).
+[CV](../assets/CV.pdf)
 
 ## Publications
 
