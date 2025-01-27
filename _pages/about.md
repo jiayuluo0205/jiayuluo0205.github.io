@@ -11,8 +11,6 @@ I'm a first year master student from [School of Computing](https://www.comp.nus.
 
 My research interest includes Robotics and machine learning.
 
-[CV](../assets/CV.pdf)
-
 ## Publications
 
 
