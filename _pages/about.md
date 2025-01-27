@@ -27,8 +27,8 @@ My research interest includes Robotics and machine learning.
       <i>Jingxiang Guo*</i>, <b>Jiayu Luo*</b>, Zhenyu Wei*, Yiwen Hou, Zhixuan Xu, Xiaoyi Lin, Chongkai Gao, Lin Shao<br>
       <i>In Submission to RA-L</i>
     </p>
-    <a href="https://telepreview.github.io/static/data/paper.pdf">paper</a> | 
-    <a href="https://telepreview.github.io/">project</a> | 
+    <a href="https://nus-lins-lab.github.io/telepreview/static/data/paper.pdf">paper</a> | 
+    <a href="https://nus-lins-lab.github.io/telepreview//">project</a> | 
     <a href="https://www.youtube.com/watch?v=k6KpkKWzuqs&t=1s">video</a>
   </div>
 </div>
