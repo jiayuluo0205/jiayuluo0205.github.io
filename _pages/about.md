@@ -43,6 +43,7 @@ My research interest includes Robotics and machine learning.
     <p style="margin: 5px 0;">
       <i>Zhenyu Wei</i>, Zhixuan Xu, Jingxiang Guo, Yiwen Hou, Yiwen Hou, Chongkai Gao, Zhehao Cai, <b>Jiayu Luo</b>, Lin Shao<br>
       <i>Best Robotics Paper Award, CoRL 2024 @ MAPoDeL Workshop</i>
+      <i>ICRA 2025</i>
     </p>
     <a href="https://arxiv.org/abs/2410.01702">paper</a> | 
     <a href="https://nus-lins-lab.github.io/drograspweb/">project</a>
